@@ -1,0 +1,13 @@
+{
+  "users":
+	[
+		{
+		    "id":"1",
+		    "name":"Xavier Carpio"
+		},
+		{
+		    "id":"2",
+		    "name":"Andres Layedra"
+		}
+	]   
+}
